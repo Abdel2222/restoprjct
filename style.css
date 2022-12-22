@@ -30,15 +30,22 @@ section {
 .nav-item a:hover{
     color: gold;
 }
-ul.menu{
+ul.menu {
     display: flex;
     list-style: none;
     align-items: center;
     justify-items: center;
-    text-align: center;
+    
+    margin: 0 auto;
+    
+}.nav-item a{
+    display: flex;
+    justify-content: space-between;
+    
     margin: 0 auto;
     
 }
+
 
 .d-flex input{
     height: 50px;
