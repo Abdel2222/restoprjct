@@ -158,6 +158,9 @@ button.btn-primary:hover {
 }*/nav{
     background-color: darkorange;
 }
+.container{
+    background-color: black;
+}
 
 @media (min-width:380px) {
     html {
