@@ -1,4 +1,4 @@
-/*import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,800;1,400;1,600&family=Roboto:ital@1&display=swap");
+import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,800;1,400;1,600&family=Roboto:ital@1&display=swap");
 *{
     font-family: 'Poppins',sans-serif;
     margin: 0;
@@ -15,7 +15,7 @@ section {
     color: white;
     height: 20%;
 }
-/*home
+/*home*/
 nav{
     background-color: darkorange;
 }
@@ -129,7 +129,7 @@ i.fab {
 footer span{
     margin-left: -150px;
 }
-/*page contact
+/*page contact*/
 form{
     margin: 0 auto;
     max-width: 900px;
@@ -252,4 +252,3 @@ transition: 0.5s ease-in-out;
         }
         
     
-*/
